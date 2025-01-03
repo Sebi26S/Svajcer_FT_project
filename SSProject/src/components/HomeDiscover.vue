@@ -13,7 +13,7 @@ export default defineComponent({
           link: "/tourism",
         },
         {
-          title: "Culture",
+          title: "Religion",
           description: "Experience Liverpool's vibrant music and arts scene.",
           image: new URL('@/assets/images/religions.jpg', import.meta.url).href,
           link: "/religion",
