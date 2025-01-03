@@ -1,0 +1,44 @@
+{
+  "icons": [
+    {
+      "name": "The Beatles",
+      "description": "The most iconic music band in the world, originating from Liverpool.",
+      "location": "The Beatles Story",
+      "image": "src/assets/images/beatles_statue.jpg",
+      "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2378.8660775705416!2d-2.9969000652466775!3d53.399335500676536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487b212bcc348b1f%3A0x566d49ff503c617f!2sThe%20Beatles%20Story%20Museum%2C%20Liverpool!5e0!3m2!1sen!2ssk!4v1735569000758!5m2!1sen!2ssk"
+
+    },
+    {
+      "name": "Bill Shankly",
+      "description": "Legendary Liverpool FC manager who shaped the club's legacy.",
+      "location": "Anfield Stadium",
+      "image": "src/assets/images/bill_shankly.jpg",
+      "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3884.2077095886525!2d-2.9627223234280384!3d53.428429723018986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487b216567dd48a3%3A0x9300db700f985e65!2sThe%20Bill%20Shankly%20Monument%20L.F.C!5e0!3m2!1sen!2ssk!4v1735569098232!5m2!1sen!2ssk"
+
+    },
+    {
+      "name": "John Moores",
+      "description": "A philanthropist and founder of the Littlewoods football pools.",
+      "location": "John Moores University",
+      "image": "src/assets/images/jhon_moores.jpg",
+      "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d824.9086934240033!2d-2.982911802687277!3d53.40493485032644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487b21bcc0d1ad8b%3A0x75eac5e415f93c58!2sSir%20John%20%26%20Cecil%20Moores!5e0!3m2!1sen!2ssk!4v1735569175573!5m2!1sen!2ssk"
+
+    },
+    {
+      "name": "Gerry Marsden",
+      "description": "Singer of 'You'll Never Walk Alone', the anthem of Liverpool FC.",
+      "location": "Mersey Ferry Terminal",
+      "image": "src/assets/images/gerry_mardsen.jpg",
+      "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2378.5731709246866!2d-2.9997665232648605!3d53.404574772306255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487b212d3b0afab3%3A0xb6de5921e773521d!2sPier%20Head!5e0!3m2!1sen!2ssk!4v1735569323962!5m2!1sen!2ssk"
+
+    },
+    {
+      "name": "Steven Gerrard",
+      "description": "Icon of Liverpool FC",
+      "location": "Anfield Stadium",
+      "image": "src/assets/images/steven_gerrard.jpg",
+      "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9507.646956443696!2d-2.9750292716934954!3d53.43428636139262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487b216efda9671d%3A0x5daa2e216fe4a4b8!2sAnfield%2C%20Liverpool%2C%20UK!5e0!3m2!1sen!2ssk!4v1735506201041!5m2!1sen!2ssk"
+
+    }
+  ]
+}
