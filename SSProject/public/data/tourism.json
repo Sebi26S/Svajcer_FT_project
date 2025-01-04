@@ -1,0 +1,44 @@
+[
+  {
+    "name": "The Cavern Club",
+    "price": "Free",
+    "category": "Historic, Bars & Clubs",
+    "description": "A legendary music venue known as the birthplace of The Beatles.",
+    "image": "src/assets/images/cavern_club.jpg"
+  },
+  {
+    "name": "Royal Albert Dock Liverpool",
+    "price": "Free",
+    "category": "Historic",
+    "description": "A vibrant area featuring museums, restaurants, and shops on the waterfront.",
+    "image": "src/assets/images/royal_albert_dock.jpg"
+  },
+  {
+    "name": "Anfield Stadium",
+    "price": "$25",
+    "category": "Stadiums, Sports",
+    "description": "Home of Liverpool FC, offering stadium tours and a rich football history.",
+    "image": "src/assets/images/anfield_stadium.jpg"
+  },
+  {
+    "name": "The Beatles Story",
+    "price": "$18",
+    "category": "Museums, Historic",
+    "description": "An immersive museum detailing the journey of The Beatles.",
+    "image": "src/assets/images/beatles_story.jpg"
+  },
+  {
+    "name": "Williamson’s Tunnels",
+    "price": "$10",
+    "category": "Historic, Museums",
+    "description": "A fascinating network of tunnels built in the early 19th century.",
+    "image": "src/assets/images/williamsons_tunnels.jpg"
+  },
+  {
+    "name": "Liverpool Cathedral",
+    "price": "Free",
+    "category": "Historic, Religious Sites",
+    "description": "A stunning cathedral offering breathtaking views of Liverpool.",
+    "image": "src/assets/images/liverpool_cathedral.jpg"
+  }
+]

@@ -9,13 +9,17 @@ const routes = [
   { path: '/', name: 'Home', component: home},
   { path: '/history', name: 'History', component: history},
   { path: '/icons', name: 'Icons', component: icons},
-  { path: '/tourism', name: 'Tourism', component: tourism},
+  { path: '/tourism', name: 'TourismPage', component: tourism},
   { path: '/religion', name: 'Religion', component: religion},
 ];
 
 const router = createRouter({
   history: createWebHistory(),
   routes,
+  scrollBehavior() {
+    return { top: 0 }; 
+  }
+
 });
 
 export default router;
