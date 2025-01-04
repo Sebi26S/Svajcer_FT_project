@@ -1,0 +1,38 @@
+[
+  {
+    "religion": "Christianity",
+    "population": 114113
+  },
+  {
+    "religion": "Islam",
+    "population": 35298
+  },
+  {
+    "religion": "Secular Beliefs and Other Spiritual Beliefs and No Religious Affiliation",
+    "population": 32217
+  },
+  {
+    "religion": "Buddhism",
+    "population": 13410
+  },
+  {
+    "religion": "Hinduism",
+    "population": 12539
+  },
+  {
+    "religion": "Other Religions",
+    "population": 8525
+  },
+  {
+    "religion": "Inadequately described",
+    "population": 597
+  },
+  {
+    "religion": "Judaism",
+    "population": 54
+  },
+  {
+    "religion": "Not stated",
+    "population": 16693
+  }
+]
