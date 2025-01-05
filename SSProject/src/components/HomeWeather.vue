@@ -1,14 +1,5 @@
-<script lang="ts">
+<script>
 import { defineComponent } from 'vue';
-
-interface WeatherData {
-  temperature: number | null;
-  feelsLike: number | null;
-  condition: string;
-  humidity: number | null;
-  windSpeed: number | null;
-  icon: string | null;
-}
 
 export default defineComponent({
   name: "HomeWeather",
@@ -21,9 +12,9 @@ export default defineComponent({
         humidity: null,
         windSpeed: null,
         icon: null
-      } as WeatherData,
+      },
       loading: true,
-      error: null as string | null,
+      error: null,
       API_KEY: '97dd8af9798d48601ffcb489ca1d3a03',
       city: 'Liverpool,UK'
     };
@@ -69,7 +60,6 @@ export default defineComponent({
 });
 </script>
 
-
 <template>
   <div class="weather">
     <div class="weather-container">
@@ -105,7 +95,6 @@ export default defineComponent({
       </div>
     </div>
   </div>
-
 </template>
 
 <style scoped>
@@ -188,5 +177,4 @@ h2 {
 .value {
   font-weight: bold;
 }
-
 </style>

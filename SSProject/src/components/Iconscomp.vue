@@ -1,15 +1,6 @@
-<script lang="ts">
-import {defineComponent} from 'vue'
+<script>
+import {defineComponent} from 'vue';
 import IconsMap from "@/components/IconsMap.vue";
-
-interface Icon {
-  name: string;
-  description: string;
-  location: string;
-  image: string;
-  mapEmbed: string;
-}
-
 
 export default defineComponent({
   name: "Iconscomp",
@@ -18,7 +9,7 @@ export default defineComponent({
   },
   props: {
     icons: {
-      type: Array as () => Icon[],
+      type: Array,
       required: true,
     },
   },
@@ -30,7 +21,7 @@ export default defineComponent({
     };
   },
   methods: {
-    openModal(icon: Icon) {
+    openModal(icon) {
       this.selectedLocation = icon.location;
       this.selectedMapUrl = icon.mapEmbed;
       this.showModal = true;
@@ -39,7 +30,7 @@ export default defineComponent({
       this.showModal = false;
     }
   }
-})
+});
 </script>
 
 <template>

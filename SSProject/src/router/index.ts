@@ -2,8 +2,8 @@ import { createRouter, createWebHistory } from 'vue-router'
 import home from "@/views/Home.vue";
 import history from "@/views/History.vue";
 import icons from "@/views/Icons.vue";
-import tourism from "@/views/Tourism.vue";
 import religion from "@/views/Religion.vue";
+import tourism from "@/views/Tourism.vue";
 
 const routes = [
   { path: '/', name: 'Home', component: home},
